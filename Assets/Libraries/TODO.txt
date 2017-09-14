@@ -1,0 +1,4 @@
+Noise2D.cs -> Methods:
+	*GetTexture();
+	*GetTexture(Gradient gradient);
+	*GetNormalMap(float intensity);
